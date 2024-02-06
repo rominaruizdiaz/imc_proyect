@@ -9,6 +9,9 @@ Luego, a partir del IMC obtenido se pueden calcular si una persona tiene un peso
 Requisitos:
 - Se deberá generar una salida por terminal desde la clase "App"
 
+![image](https://github.com/rominaruizdiaz/imc_proyect/assets/114667784/a73798fd-3778-4a8a-b475-13d42d5a469f)
+
+
 # dependencias:
 Hamcrest
 
